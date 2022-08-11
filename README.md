@@ -1,5 +1,5 @@
 # helium_mining_activity_fix
-This script watch and fix miners if no poc activity in 200 blocks
+This script watch and fix helium miners if no poc activity in 200 blocks
 
 
 
